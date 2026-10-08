@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 1114,
+  "versionName": "1.0.0-alpha.1",
+  "changelog": "Первая тестовая версия RODEN Coffee: современные ARM64-телефоны, голосовые сообщения, анимации, фоторедактор и уведомления об обновлениях при открытии приложения. Вход в VK ещё не подтверждён.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.1/RODEN-Coffee-1.0.0-alpha.1.apk"
+}
