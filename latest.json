@@ -1,7 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1114,
-  "versionName": "1.0.0-alpha.1",
-  "changelog": "Первая тестовая версия RODEN Coffee: современные ARM64-телефоны, голосовые сообщения, анимации, фоторедактор и уведомления об обновлениях при открытии приложения. Вход в VK ещё не подтверждён.",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.1/RODEN-Coffee-1.0.0-alpha.1.apk"
+  "versionCode": 1138,
+  "versionName": "1.0.0-alpha.25",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.25/RODEN-Coffee-1.0.0-alpha.25.apk",
+  "changelog": "Тестовая сборка: исправлено открытие видео, проверены выбранные стены и загрузка диалогов из кеша и сети. Проверка всего функционала продолжается.",
+  "sha256": "c8fd3b32512be5fac511d7b660651211a645232a6d89748c798c86247af2b849",
+  "channel": "alpha"
 }
