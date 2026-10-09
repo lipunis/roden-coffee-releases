@@ -1,9 +1,7 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1145,
-  "versionName": "1.0.0-alpha.32",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.32/RODEN-Coffee-1.0.0-alpha.32.apk",
-  "changelog": "Тестовая сборка: исправлены пустые карточки клипов и загрузка после отфильтрованных страниц. На Android 16 проверены клипы DEEP SOUND и Квартирного вопроса, видео подкаста Тагира Арсланова, музыка и сохранение сессии. Проверка остальных функций, конкретных исторических постов и устройств продолжается.",
-  "sha256": "ed4038fab8c74ef7a62fd76379155401df2941c799b8c848f6bf40bb920f9656",
-  "channel": "alpha"
+  "versionCode": 1153,
+  "versionName": "1.0.0-alpha.40",
+  "changelog": "Тестовая сборка: современный Android, исправления входа и настроек, помощь RODEN, чашка с плашкой RODEN и анимацией VK/OK. Повторный вход пока не подтверждён: VK ограничивает попытки по паролю. Поддержка ОК ещё не реализована.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.40/RODEN-Coffee-1.0.0-alpha.40.apk"
 }
