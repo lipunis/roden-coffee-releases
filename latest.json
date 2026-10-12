@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1153,
-  "versionName": "1.0.0-alpha.40",
-  "changelog": "Тестовая сборка: современный Android, исправления входа и настроек, помощь RODEN, чашка с плашкой RODEN и анимацией VK/OK. Повторный вход пока не подтверждён: VK ограничивает попытки по паролю. Поддержка ОК ещё не реализована.",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.40/RODEN-Coffee-1.0.0-alpha.40.apk"
+  "versionCode": 1162,
+  "versionName": "1.0.0-alpha.49",
+  "changelog": "Исправлено падение просмотра фото на новых Android; проверены открытие, листание, увеличение и сохранение. Включены исправления истории сообщений и безопасной авторизации. Тестовая Alpha: новая авторизация и полный набор функций на всех устройствах не подтверждены. ОК ещё не подключён.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.49/RODEN-Coffee-1.0.0-alpha.49.apk"
 }
