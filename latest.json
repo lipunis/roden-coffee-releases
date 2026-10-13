@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1166,
-  "versionName": "1.0.0-alpha.53",
-  "changelog": "Исправлено обрезание сердечка, комментариев, репоста и просмотров внизу стены: экран профиля учитывает системные отступы. Проверено на телефоне в вертикальной и горизонтальной ориентации. Сессия сохранена. Тестовая Alpha.",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.53/RODEN-Coffee-1.0.0-alpha.53.apk"
+  "versionCode": 1167,
+  "versionName": "1.0.0-alpha.54",
+  "changelog": "Добавлено меню по долгому нажатию на друга в своём списке: «Удалить из друзей», включая недоступные профили. Удаление требует отдельного подтверждения и ответа VK. На телефоне проверены меню и отмена; реального удаления при тесте не было. Тестовая Alpha.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.54/RODEN-Coffee-1.0.0-alpha.54.apk"
 }
