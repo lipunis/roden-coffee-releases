@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1165,
-  "versionName": "1.0.0-alpha.52",
-  "changelog": "Исправлена кнопка тёмной темы в боковом меню: переключение доступно всем. Проверены сохранение темы после перезапуска и сохранение сессии. Дополнительно проверены поиск и реальная запись микрофона без отправки. Тестовая Alpha.",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.52/RODEN-Coffee-1.0.0-alpha.52.apk"
+  "versionCode": 1166,
+  "versionName": "1.0.0-alpha.53",
+  "changelog": "Исправлено обрезание сердечка, комментариев, репоста и просмотров внизу стены: экран профиля учитывает системные отступы. Проверено на телефоне в вертикальной и горизонтальной ориентации. Сессия сохранена. Тестовая Alpha.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.53/RODEN-Coffee-1.0.0-alpha.53.apk"
 }
