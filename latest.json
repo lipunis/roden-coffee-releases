@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1163,
-  "versionName": "1.0.0-alpha.50",
-  "changelog": "Исправлены ошибки No value for type в постах и возврат из профилей друзей, включая DELETED. Проверено на телефоне: ошибки разбора 26 → 0, фото сохранились, «Назад» возвращает к прежнему экрану. Тестовая Alpha.",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.50/RODEN-Coffee-1.0.0-alpha.50.apk"
+  "versionCode": 1164,
+  "versionName": "1.0.0-alpha.51",
+  "changelog": "В быстром списке друзей пропускаются заглушки DELETED; места занимают следующие друзья в прежнем порядке. Уточнены сообщения недоступного профиля, сохранён возврат кнопкой «Назад». Проверено на Android16 с сохранением сессии. Тестовая Alpha.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.51/RODEN-Coffee-1.0.0-alpha.51.apk"
 }
