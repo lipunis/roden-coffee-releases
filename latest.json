@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1162,
-  "versionName": "1.0.0-alpha.49",
-  "changelog": "Исправлено падение просмотра фото на новых Android; проверены открытие, листание, увеличение и сохранение. Включены исправления истории сообщений и безопасной авторизации. Тестовая Alpha: новая авторизация и полный набор функций на всех устройствах не подтверждены. ОК ещё не подключён.",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.49/RODEN-Coffee-1.0.0-alpha.49.apk"
+  "versionCode": 1163,
+  "versionName": "1.0.0-alpha.50",
+  "changelog": "Исправлены ошибки No value for type в постах и возврат из профилей друзей, включая DELETED. Проверено на телефоне: ошибки разбора 26 → 0, фото сохранились, «Назад» возвращает к прежнему экрану. Тестовая Alpha.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.50/RODEN-Coffee-1.0.0-alpha.50.apk"
 }
