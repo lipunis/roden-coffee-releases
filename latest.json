@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "versionCode": 1168,
-  "versionName": "1.0.0-alpha.55",
-  "changelog": "Восстановлена загрузка рекомендаций: для отдельного раздела используется рабочий запрос VK. Проверены две страницы настоящих рекомендаций, разбор постов и продолжение по курсору. Тестовая Alpha.",
-  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.55/RODEN-Coffee-1.0.0-alpha.55.apk"
+  "versionCode": 1169,
+  "versionName": "1.0.0-alpha.56",
+  "changelog": "Исправлены внутренние события, от которых зависели часики отправки и завершение голосовых. Голосовой файл закрывается до загрузки; добавлена настройка «Сообщения в фоне». Тестовая Alpha.",
+  "apkUrl": "https://github.com/lipunis/roden-coffee-releases/releases/download/v1.0.0-alpha.56/RODEN-Coffee-1.0.0-alpha.56.apk"
 }
